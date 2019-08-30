@@ -1,0 +1,10 @@
+How to create a project in AzureDevOps?
+	Click "Azure DevOps" link on the top left most corner. Then click "+ New project" button on the top right most corner. This will let you to create a project in Azure DevOps. On this panel, click "Andavced" option to specify the code repository and the project type.
+
+How to Delete a project from AzureDevOps?
+	Select the desired project to delete. Click the link "Project Settings" which is on the bottom left most corner. This link will take us to the project seting screen. Scroll down to see the delete link. A click on this link, will take us to a confirmation panel. On this confirmation panel, we can delete the selected project.
+	
+	
+How to add users to the project?
+	Select the project to which we need to add users.  Click the "project settings" which will display the peoject setting screen. Click the security link to
+	add users.
